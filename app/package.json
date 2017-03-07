@@ -1,0 +1,21 @@
+{
+  "name": "photovalid",
+  "version": "1.0.0",
+  "description": "photo validate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validate"
+  ],
+  "author": "frank_vinci",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "crypto": "0.0.3",
+    "express": "^4.15.0",
+    "querystring": "^0.2.0",
+    "request": "^2.79.0"
+  }
+}
